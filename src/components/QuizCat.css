@@ -1,0 +1,25 @@
+.quiz-categories{
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    column-gap: 50px;
+    margin-top: 180px;
+    margin-left: 200px;
+}
+
+
+.categories{
+    background-color: #1a1a1a;
+    height: 200px;
+    margin-right: 100px;
+    text-align: center;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.categories h2{
+    margin-top: 70px;
+}
+
+
+
+

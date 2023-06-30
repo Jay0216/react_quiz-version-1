@@ -1,0 +1,37 @@
+
+.main-car-content{
+    background-color: #2f3031;
+    height: 650px;
+    width: 730px;
+    border-radius: 25px;
+    margin-top: 60px;
+    margin-left: 270px;
+}
+
+.quiz-counter-car{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+    padding-top: 20px;
+}
+
+.car-quiz-content{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.car-quiz-answers-grid{
+    margin-top: 40px;
+}
+
+.button-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 79px;
+}
+
+.button-section .prev-btn button{
+    margin-right: 40px;
+}
